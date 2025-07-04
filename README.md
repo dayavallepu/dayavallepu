@@ -1,4 +1,4 @@
-## 👋 Hi there, 
+## 👋 Hi there, I'm Vallepu Dayakar
 
 I’m a Data Science and AI Engineer with a strong background in developing practical, real-world solutions using cutting-edge technologies. I specialize in applying deep learning, computer vision, NLP, and generative AI to solve industry challenges, with hands-on experience deploying scalable AI systems.
 
