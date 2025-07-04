@@ -1,16 +1,16 @@
-## Hi there 👋
+## 👋 Hi there, 
 
-<!--
-**dayavallepu/dayavallepu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Data Science and AI Engineer with a strong background in developing practical, real-world solutions using cutting-edge technologies. I specialize in applying deep learning, computer vision, NLP, and generative AI to solve industry challenges, with hands-on experience deploying scalable AI systems.
 
-Here are some ideas to get you started:
+## 🚀 What I’m Currently Doing
+🔍 Working on projects applying advanced concepts in computer vision, time series forecasting, RAG, and generative AI.
+💡 Expanding my skills in Generative AI, Large Language Models, and advanced deployment pipelines with Streamlit and Flask, React.js.
+🤝 Open to collaborations, discussions, and knowledge sharing around Data Science, Machine Learning, and AI-driven solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**| Python | SQL | PowerBI | Data Science | Machine Learning | Deep Learning | Computer Vision | NLP | Generative AI | AI Deployment |**
+
+🌎 **Connect with Me**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dayakar-vallepu) 
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dayavallepu@gmail.com)
+
+
